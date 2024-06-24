@@ -21,8 +21,8 @@ SCOMPOSIZIONE ESERCIZIO
 2.3 assegno alla variabile il valore recuperato tramite il prompt "cognome"
 
 3 Creo finestra per l'inserimento del colore preferito
-3.1 nel file html creo tag con ID "colore_preferito"
-3.2 dichiaro la variabile "colore_preferito"
-3.3 assegno alla variabile il valore recuperato tramite il prompt "colore_preferito"
+3.1 nel file html creo tag con ID "colorePreferito"
+3.2 dichiaro la variabile "colorePreferito"
+3.3 assegno alla variabile il valore recuperato tramite il prompt "colorePreferito"
 
 4 Concateno le stringhe (collegando con l'operatore + le stringhe di cui ai punti 1, 2 e 3)
